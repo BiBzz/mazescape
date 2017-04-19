@@ -1,4 +1,4 @@
-#!/usr/bin/python3.4
+#!/usr/bin/env python3
 # -*-coding:Utf-8 -*
 
 """Ce fichier contient le code principal du jeu.
